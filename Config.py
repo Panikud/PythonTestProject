@@ -1,4 +1,4 @@
-TOKEN = '5809305554:AAEPAD8byXZWMYjPqdVKjh1HBFQlmY1-4Bk'
+TOKEN = '???' # вместо ??? нужно вставить токен вашего бота
 
 keys = {'доллар': 'USD',
         'евро': 'EUR',
